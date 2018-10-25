@@ -1,0 +1,7 @@
+untuk membuka program bisa diakses di 
+https://github.com/bastomy/TUGAS2_AI_1301178418.git
+
+program utama adalah 
+Main.ipynb
+buka file di github maka program akan otomatis dijalankan
+file prediction adalah daftar no yang menerima bantuan
